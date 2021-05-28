@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyTimer</string>
+    <string name="current_time">Текущее время</string>
+</resources>
